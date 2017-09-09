@@ -1,5 +1,6 @@
 Hello world!
-This is my AK after cloning
+This is my file after cloning --Anil
+Now I tried fom Git GUI --Anil
 
 
 Added this text for 28 Aug Batch
