@@ -1,4 +1,4 @@
-
+Amit's text
 
 newfile created to pratice git
 Hello world
