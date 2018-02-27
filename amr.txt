@@ -3,7 +3,7 @@
 #! /bin/bash
 
 
-echo "peace"
+echo "hello world"
 
 
 
