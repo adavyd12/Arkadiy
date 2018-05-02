@@ -1,0 +1,10 @@
+Hello world!
+This is my file after cloning --Anil
+Now I tried fom Git GUI --Anil
+SOME REMOTE CHANGE
+Added this text for 28 Aug Batch
+this ctext was added on the GUI
+
+
+Added text for 28Aug Batch
+edited through GUI

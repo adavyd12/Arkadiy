@@ -1,0 +1,9 @@
+second
+file
+changed
+someone changed this file
+and this should result in a conflict
+some local change
+remote change
+dev branch
+conflict line
